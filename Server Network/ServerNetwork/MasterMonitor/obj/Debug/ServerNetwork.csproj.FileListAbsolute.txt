@@ -1,0 +1,16 @@
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\Server Network\ServerNetwork\MasterMonitor\bin\Debug\MasterMonitor.exe
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\Server Network\ServerNetwork\MasterMonitor\bin\Debug\MasterMonitor.exe.config
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\Server Network\ServerNetwork\MasterMonitor\obj\Debug\MasterMonitor.fDiaglog.resources
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\Server Network\ServerNetwork\MasterMonitor\obj\Debug\MasterMonitor.ServerNetwork.resources
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\Server Network\ServerNetwork\MasterMonitor\obj\Debug\MasterMonitor.Properties.Resources.resources
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\Server Network\ServerNetwork\MasterMonitor\obj\Debug\ServerNetwork.csproj.GenerateResource.cache
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\Server Network\ServerNetwork\MasterMonitor\obj\Debug\ServerNetwork.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\Server Network\ServerNetwork\MasterMonitor\obj\Debug\MasterMonitor.exe
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\Server Network\ServerNetwork\MasterMonitor\obj\Debug\MasterMonitor.pdb
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\Server Network\ServerNetwork\MasterMonitor\bin\Debug\MasterMonitor.pdb
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\Server Network\ServerNetwork\MasterMonitor\bin\Debug\System.Memory.dll
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\Server Network\ServerNetwork\MasterMonitor\bin\Debug\System.Buffers.dll
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\Server Network\ServerNetwork\MasterMonitor\bin\Debug\System.Numerics.Vectors.dll
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\Server Network\ServerNetwork\MasterMonitor\obj\Debug\ServerNetwork.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\Server Network\ServerNetwork\MasterMonitor\obj\Debug\MasterMonitor.exe.config
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\Server Network\ServerNetwork\MasterMonitor\obj\Debug\ServerNetwork.csproj.CopyComplete

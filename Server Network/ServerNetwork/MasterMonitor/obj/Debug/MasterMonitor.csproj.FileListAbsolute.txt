@@ -1,0 +1,10 @@
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\Master Network\MasterMonitor\MasterMonitor\bin\Debug\MasterMonitor.exe.config
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\Master Network\MasterMonitor\MasterMonitor\bin\Debug\MasterMonitor.exe
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\Master Network\MasterMonitor\MasterMonitor\bin\Debug\MasterMonitor.pdb
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\Master Network\MasterMonitor\MasterMonitor\obj\Debug\MasterMonitor.csproj.AssemblyReference.cache
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\Master Network\MasterMonitor\MasterMonitor\obj\Debug\MasterMonitor.Form1.resources
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\Master Network\MasterMonitor\MasterMonitor\obj\Debug\MasterMonitor.Properties.Resources.resources
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\Master Network\MasterMonitor\MasterMonitor\obj\Debug\MasterMonitor.csproj.GenerateResource.cache
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\Master Network\MasterMonitor\MasterMonitor\obj\Debug\MasterMonitor.csproj.CoreCompileInputs.cache
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\Master Network\MasterMonitor\MasterMonitor\obj\Debug\MasterMonitor.exe
+E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\Master Network\MasterMonitor\MasterMonitor\obj\Debug\MasterMonitor.pdb
