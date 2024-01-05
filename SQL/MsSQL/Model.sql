@@ -1,0 +1,20 @@
+USE [tetest]
+GO
+
+/****** Object:  Table [dbo].[Model]    Script Date: 1/5/2024 8:38:58 AM ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[Model](
+	[model] [varchar](100) NOT NULL,
+	[connect] [varchar](50) NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[model] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
