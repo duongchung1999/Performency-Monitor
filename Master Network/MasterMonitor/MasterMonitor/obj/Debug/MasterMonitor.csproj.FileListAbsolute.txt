@@ -48,3 +48,17 @@ E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\
 E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\1. SQL Computer Network Manager\Master Network\MasterMonitor\MasterMonitor\obj\Debug\MasterMonitor.csproj.CopyComplete
 E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\1. SQL Computer Network Manager\Master Network\MasterMonitor\MasterMonitor\obj\Debug\MasterMonitor.exe
 E:\2. MEVNSW\1_SourceCode\14_WorkSchadle\专案\1. SQL Computer Network Manager\1. SQL Computer Network Manager\Master Network\MasterMonitor\MasterMonitor\obj\Debug\MasterMonitor.pdb
+C:\Users\91204127\Desktop\1. SQL Computer Network Manager\Master Network\MasterMonitor\MasterMonitor\bin\Debug\MasterMonitor.exe.config
+C:\Users\91204127\Desktop\1. SQL Computer Network Manager\Master Network\MasterMonitor\MasterMonitor\bin\Debug\MasterMonitor.exe
+C:\Users\91204127\Desktop\1. SQL Computer Network Manager\Master Network\MasterMonitor\MasterMonitor\bin\Debug\MasterMonitor.pdb
+C:\Users\91204127\Desktop\1. SQL Computer Network Manager\Master Network\MasterMonitor\MasterMonitor\bin\Debug\System.Memory.dll
+C:\Users\91204127\Desktop\1. SQL Computer Network Manager\Master Network\MasterMonitor\MasterMonitor\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\91204127\Desktop\1. SQL Computer Network Manager\Master Network\MasterMonitor\MasterMonitor\bin\Debug\System.Buffers.dll
+C:\Users\91204127\Desktop\1. SQL Computer Network Manager\Master Network\MasterMonitor\MasterMonitor\obj\Debug\MasterMonitor.csproj.AssemblyReference.cache
+C:\Users\91204127\Desktop\1. SQL Computer Network Manager\Master Network\MasterMonitor\MasterMonitor\obj\Debug\MasterMonitor.Form1.resources
+C:\Users\91204127\Desktop\1. SQL Computer Network Manager\Master Network\MasterMonitor\MasterMonitor\obj\Debug\MasterMonitor.Properties.Resources.resources
+C:\Users\91204127\Desktop\1. SQL Computer Network Manager\Master Network\MasterMonitor\MasterMonitor\obj\Debug\MasterMonitor.csproj.GenerateResource.cache
+C:\Users\91204127\Desktop\1. SQL Computer Network Manager\Master Network\MasterMonitor\MasterMonitor\obj\Debug\MasterMonitor.csproj.CoreCompileInputs.cache
+C:\Users\91204127\Desktop\1. SQL Computer Network Manager\Master Network\MasterMonitor\MasterMonitor\obj\Debug\MasterMonitor.csproj.CopyComplete
+C:\Users\91204127\Desktop\1. SQL Computer Network Manager\Master Network\MasterMonitor\MasterMonitor\obj\Debug\MasterMonitor.exe
+C:\Users\91204127\Desktop\1. SQL Computer Network Manager\Master Network\MasterMonitor\MasterMonitor\obj\Debug\MasterMonitor.pdb
